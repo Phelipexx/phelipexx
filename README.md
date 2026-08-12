@@ -6,4 +6,4 @@
 
 ![Phelipe GitHub stats](https://github-readme-stats.vercel.app/api?username=phelipexx&show_icons=true&theme=dark)
 
-Cursando Analise e Desenvolvimento de Sistemas!!
+Formado em Analise e Desenvolvimento de Sistemas, pela UniAtenas Paracatu - MG
