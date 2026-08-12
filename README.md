@@ -91,6 +91,6 @@ Me chamo Phelipe Botelho, tenho 39 anos e sou natural de Minas Gerais, atualment
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/phbotelhoo)
 
-/>
+
 </p>
 
