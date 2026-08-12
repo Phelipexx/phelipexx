@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Web`**
 
-Me chamo Phelipe Botelho, tenho 20 anos e sou natural de Minas Gerais, atualmente morando em Gramado RS. Concluí o ensino médio no colégio Atenas em Paracatu. Atualmente, me formei em Análise e Desenvolvimento de Sistemas pela Uni Atenas em Paracatu - MG . Sou apaixonado por tecnologia desde quando ganhei meu primeiro PC com 14 anos.
+Me chamo Phelipe Botelho, tenho 39 anos e sou natural de Minas Gerais, atualmente morando em Gramado RS. Concluí o ensino médio no colégio Atenas em Paracatu. Atualmente, me formei em Análise e Desenvolvimento de Sistemas pela Uni Atenas em Paracatu - MG . Sou apaixonado por tecnologia desde quando ganhei meu primeiro PC com 14 anos.
 
 
 
